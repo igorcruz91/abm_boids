@@ -1,6 +1,10 @@
 # Boid Simulation with Cluster Detection
 This project implements a **boids simulation**, inspired by Craig Reynolds' "Boids" model (https://en.wikipedia.org/wiki/Boids), which mimics the collective behavior of bird flocks, fish schools, or other agent-based systems. The simulation features customizable behaviors and cluster detection using the `DBSCAN` algorithm.
 
+<div align="center">
+  <img src="https://github.com/igorcruz91/abm_boids/raw/main/simulation_gif.gif" width="600" alt="Boid Simulation">
+</div>
+
 - Installation
      ```bash
    git clone https://github.com/igorcruz91/abm_boids.git
